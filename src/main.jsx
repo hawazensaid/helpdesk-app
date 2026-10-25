@@ -10,6 +10,6 @@ import Q6 from './Question/Session2/Q6.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Q6 />
+    <Q3 />
   </StrictMode>,
 )
